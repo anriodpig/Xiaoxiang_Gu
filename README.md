@@ -1,4 +1,15 @@
 # Xiaoxiang_Gu
+----2019.01.24    更新----</br>
+----updated 2019.01.24----</br>
+腾讯现已关闭WebQQ接口，项目已经停止。后续可能考虑迁移至酷Q。</br>
+
+It's a shame that WebQQ Interface has been shutdown by Tencent.</br>
+This project is now shutdown.</br>
+Maybe code will be tranplant to CoolQ Platform.</br>
+
+----</br>
+History Version</br>
+----</br>
 An replying script running on qqbot[(pandolia/qqbot)](https://github.com/pandolia/qqbot/)</br>
 This is an amusemenet-usage bot script ; everyone is free to learn from it</br>
 If you any comment of any kind you're free to let me know</br>
